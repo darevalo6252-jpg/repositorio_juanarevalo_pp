@@ -31,5 +31,6 @@ public class Proyect_parcial {
         System.out.println("Sueldo bruto: "+sb);
         System.out.println("Descuento: "+d);
         System.out.println("Sueldo neto: "+sn);
+        System.out.print("Codigo modificado");
     }//fin del metodo
 }//fin del programa
